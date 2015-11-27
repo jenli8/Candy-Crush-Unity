@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Garden Defender\Chapter 4 Assets\Garden Defender\Assets\Game Scripts\SimpleCharacterController.cs">
+    <Files>
+      <File FileName="..\Garden Defender\Chapter 4 Assets\Garden Defender\Assets\Game Scripts\SimpleCharacterController.cs" Line="11" Column="20" />
+      <File FileName="..\Garden Defender\Chapter 4 Assets\Garden Defender\Assets\Game Scripts\SensorDoors.cs" Line="26" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
